@@ -76,7 +76,110 @@ To ensure accuracy, the dataset underwent series of **cleaning and transformatio
 
 The dashboard is structured into three main pages.
 
-## Page 1:
+## Page 1: Claim Frequency by demographics, car make and coverage zone
 
-<img width="896" height="497" alt="Insurance Policy_1" src="https://github.com/user-attachments/assets/85620653-2707-4ba1-8ca1-4a0f4b2e9482" />
+**Insurance Goal**
+Analyze the claim frequency by demographics(gender,age group, marital status), the average claim amount by car make and the household income, claim amount by coverage zone.
+
+<img width="893" height="507" alt="Insurance Policy_1" src="https://github.com/user-attachments/assets/2471cb85-7ced-45ea-a5f7-b6bb206ba3b8" />
+
+# Key Metrics (Top of the page): Total household income, Total claim amount, Average household income, Average claim amount and Claim to Income ratio.
+
+- **Dynamic Title:** This helps the title to change automatically based on the fliter applied.
+- **Total household income:** This represents the sum of all incomes from all households.
+- **Total claim amount:** This represents the total money paid out for all insurance claims.
+- **Average household income:** The typical income per household (total income divided by number of households).
+- **Average claim amount:** This represents the average money paid per claim.
+- **Claim to Income ratio:** This shows how large claims are compared to income (claim amount relative to income).
+
+These KPIs helps the Insurance management team improve risk assessment, pricing, customer targeting, and profitability control.  
+
+------
+
+## Visuals
+
+- **Claim Amt by Gender (Donut chart):** It represents which gender makes more claims and their share of total claims.
+- **Claim Amt by Age group (Clustered column chart):** It Compares claim amounts across different age groups.
+- **Claim Amt by Marital status (Clustered column chart):** It shows how claim amounts differ between single, married etc.
+- **Avg claim amt by Car make (Clustered column chart):** It shows which car brands (e.g., Toyota, Honda) have higher or lower average claim costs. 
+- **Household income and claim amount by coverage zone (Clustered bar chart):** It compares income and claim amounts across different locations to see where risk or payouts are higher.
+
+## Slicers: Year and Car
+
+The dashboard includes **Year,Car** slicer that allows user to fliter and interact with the data.
+
+This interactive fliters ensures that KPIs,charts and visuals adapt instantly giving the Insurance team a flexible view by narrowing the focus on specific car or year.
+
+------
+
+# Page Two: Effect of claim amounts on Car use, Kids driving, Education, Car year, Car color.
+
+****Insurance Goal**
+Analyze the effect of claim amounts on Car use, Kids driving, Education, Car year, Car color.
+
+<img width="897" height="502" alt="Insurance Policy_2" src="https://github.com/user-attachments/assets/097425d9-86db-4a31-9e03-d0737d5a56ec" />
+
+# Key Metrics (Top of the page): Total household income, Total claim amount, Average household income, Average claim amount and Claim to Income ratio.
+
+- **Dynamic Title:** This helps the title to change automatically based on the fliter applied.
+- **Total household income:** This represents the sum of all incomes from all households.
+- **Total claim amount:** This represents the total money paid out for all insurance claims.
+- **Average household income:** The typical income per household (total income divided by number of households).
+- **Average claim amount:** This represents the average money paid per claim.
+- **Claim to Income ratio:** This shows how large claims are compared to income (claim amount relative to income).
+
+These KPIs helps the Insurance management team improve risk assessment, pricing, customer targeting, and profitability control.  
+
+------
+
+## Visuals
+
+- **Claim Amt by Car use (Pie chart):** It represents the claim amount between private and commercial car use.
+- **Claim Amt by Kids driving (Clustered column chart):** It compares claims for households with kids who drive vs those without.
+- **Claim Amt by Education (Clustered column chart):** It shows how claim amounts differ across education levels.
+- **Claim Amt by Car year (Line chart):** It shows how claims change based on how old or new the car is.
+- **Claim Amt by Car color (Clustered column chart):** It represents top 10 claim amounts across different car colors.
+
+## Slicers: Year and Car
+
+The dashboard includes **Year,Car** slicer that allows user to fliter and interact with the data.
+
+This interactive fliters ensures that KPIs,charts and visuals adapt instantly giving the Insurance team a flexible view by narrowing the focus on specific car or year.
+
+------
+
+# Page Three: Effect of claim amounts and claim frequency on Car make, Household income by coverage zone.
+
+****Insurance Goal**
+Analyze the effect of claim amounts and claim frequency on Car make, Household income by coverage zone.
+
+<img width="895" height="500" alt="Insurance Policy_3" src="https://github.com/user-attachments/assets/1ca58f61-88ed-48a9-9e36-91ffe9109376" />
+
+# Key Metrics (Top of the page): Total household income, Total claim amount, Average household income, Average claim amount and Claim to Income ratio.
+
+- **Dynamic Title:** This helps the title to change automatically based on the fliter applied.
+- **Total household income:** This represents the sum of all incomes from all households.
+- **Total claim amount:** This represents the total money paid out for all insurance claims.
+- **Average household income:** The typical income per household (total income divided by number of households).
+- **Average claim amount:** This represents the average money paid per claim.
+- **Claim to Income ratio:** This shows how large claims are compared to income (claim amount relative to income).
+
+These KPIs helps the Insurance management team improve risk assessment, pricing, customer targeting, and profitability control.  
+
+------
+
+## Visuals
+
+- **Claim amount by claim frquency (Clustered column chart):** It represents how total claim amount changes with the number of claims made.
+- **Claim amount by car make (Clustered column chart):** It compares total claim amounts across car brands (e.g., Toyota, Ford).
+- **Household income by coverage zone (Clustered bar chart):** It represents how total income differs across regions.
+- **Avg household income by coverage zone (Clustered bar chart):** It represents the typical income level in each regions.
+
+## Slicers: Year and Car
+
+The dashboard includes **Year,Car** slicer that allows user to fliter and interact with the data.
+
+These interactive fliters ensures that KPIs,charts and visuals adapt instantly giving the Insurance team a flexible view by narrowing the focus on specific car or year.  
+
+# Key Analysis Findings
 
