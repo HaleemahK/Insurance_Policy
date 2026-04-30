@@ -7,7 +7,7 @@ The report explores:
 - Insurance coverages
 - Claim frequency
 
-It purpose is to analyze  pattern in claim behavior, explore the impact of demographic and vehicles characteristics on claims and accesss the relationship between household income, education and insurance claims.
+It purpose is to analyze  pattern in claim behavior, explore the impact of demographic and vehicles characteristics on claims and access the relationship between household income, education and insurance claims.
 
 # Problem Statement 
 Insurance providers struggle to identify patterns in claim behavior and the key factors contributing to higher claims. 
@@ -117,7 +117,8 @@ This interactive fliters ensures that KPIs,charts and visuals adapt instantly gi
 ****Insurance Goal**
 Analyze the effect of claim amounts on Car use, Kids driving, Education, Car year, Car color.
 
-<img width="897" height="502" alt="Insurance Policy_2" src="https://github.com/user-attachments/assets/097425d9-86db-4a31-9e03-d0737d5a56ec" />
+<img width="898" height="506" alt="Insurance Policy_2" src="https://github.com/user-attachments/assets/b9df4c8a-cf06-4372-bb06-1588bc78c64f" />
+
 
 # Key Metrics (Top of the page): Total household income, Total claim amount, Average household income, Average claim amount and Claim to Income ratio.
 
@@ -153,7 +154,7 @@ This interactive fliters ensures that KPIs,charts and visuals adapt instantly gi
 ****Insurance Goal**
 Analyze the effect of claim amounts and claim frequency on Car make, Household income by coverage zone.
 
-<img width="895" height="500" alt="Insurance Policy_3" src="https://github.com/user-attachments/assets/1ca58f61-88ed-48a9-9e36-91ffe9109376" />
+<img width="897" height="505" alt="Insurance Policy_3" src="https://github.com/user-attachments/assets/495debed-0ece-45ca-93a5-64dd8bd883b3" />
 
 # Key Metrics (Top of the page): Total household income, Total claim amount, Average household income, Average claim amount and Claim to Income ratio.
 
@@ -183,3 +184,61 @@ These interactive fliters ensures that KPIs,charts and visuals adapt instantly g
 
 # Key Analysis Findings
 
+The analysis provided various insights into claim behavior, impact of demographic and vehicles characteristics on claims and access the relationship between household income, education and insurance claims.
+
+Here are various Finding:
+
+- **Total Household income-** *$5.53bn*
+- **Total claim amount-** *$1.88bn*
+- **Average Household income-** *$147.25K*
+- **Average claim amount-** *$50.03K*
+- **Claim to income ratio-** *0.34*
+- The male gender has higherclaim amountcompared to the female with *50.08%*.
+- The **middle aged** group has the highest claim amount of *$532.76M* while the **elderly** has the lowest with *356.25M*.
+- **Singles** have the highest claims *$774.8M*, **Married** people are next *$832M* while divorced and separated are much lower.
+- **Hilman** has highest average claims *$79K* compared to which are slightly lower ($62K–$53K range).
+- Urban and highly rural areas have the highest income and claim amounts while Suburban and rural areas are slightly lower but similar.
+- **Private** cars dominate claims *80.08%*, **Commercial** cars contribute only *19.92%*.
+- Households with *0 kids* driving have the highest claims *$1.34bn*, claims drop sharply as number of kids increases:
+     - 1 kid: *$338.62M*
+     - 2 kids: *$163.58M*
+     - 3 kids: *$40.87M*
+- **Bachelors degree** holders have the highest claims *$940.2M*, followed by High School *$518M*, Masters *$283.09M*, and PhD *$136.87M*.
+- Claims were very low in early years and increased over time.Peak occurs around late 1990s to early 2000s *($77M–$97M range)*.Recent years show a sharp drop to around *$16M*.
+- Claims are very evenly distributed across colors *($99M–$106M)*.Highest:**Turquoise** *$106M*, lowest: Yellow/Violet/Fuscia *$99M*.
+- Customers with 0 claims account for the highest total ($1.36bn), then claim amount drops significantly as frequency increases:
+    - 1 claim: *$296.14M*
+    - 2–4 claims: all below *$80M*
+ - Ford *$168M* and Chevrolet *$148M* have the highest claims.Lowest claims come from Volkswagen *$62M*.Other brands fall in a close range ($68M–$93M).
+ - Income is fairly evenly distributed across all zones *($1.09bn–$1.11bn)*.Urban areas are slightly higher *$1.11bn*.
+ - All zones have very similar average income *($147K–$148K)*.Highly rural is slightly highest, but difference is very small.    
+
+ # Overall Insights
+ - Opportunity to sell premium policies and add-on products.
+ - Claims are a major cost driver, which can reduce profitability if not controlled.
+ - Claims are influenced more by age, marital status, car type, and location,but not much by gender.
+ - Most insurance risk comes from private car users, meaning policies should focus more on private vehicle risk management.
+ - Fewer or no young drivers in a household is associated with higher claims, possibly due to older or more frequent drivers.
+ - Claims decrease as education level increases, suggesting higher education may correlate with safer driving behavior or better risk management.
+ - Older vehicle generations (especially around peak years) had higher claim activity, while recent years show improved safety or better insurance control.
+ - Car color has almost no meaningful impact on claim differences.
+ - Most claim value comes from customers who rarely claim, showing a large low-risk customer base.
+ - Certain car brands are associated with higher claim costs, possibly due to usage volume, repair cost, or risk profile.
+ - Insurance customers are evenly spread geographically, with no major income concentration in one zone.
+ - Income level does not vary much by location, meaning pricing or policy strategy should not heavily depend on zone income differences.
+ - The insurance system is stable, with claims well below total income.
+
+# Recomendations:
+
+- Give discounts or bonuses to customers with 0–1 claims to keep them loyal.
+- Charge slightly higher premiums for customers with many claims to reduce risk.
+- Brands like Ford and Chevrolet should have better risk checks or adjusted premiums.
+- Since they make most claims, introduce safe driving programs for them.
+- Encourage training to reduce accidents, especially for less educated drivers.
+
+# Limitations:
+
+- High claims may be due to more users, not necessarily higher risk.
+- No information on driving habits, which affects claims.
+- Very low recent claims may be incomplete or delayed data.
+- Claims are not split into types (repair, medical), limiting deeper insights.
